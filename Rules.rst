@@ -1,10 +1,6 @@
-
-############
-Rules
-
-
-************
+***************
 Server Rules
+***************
 
 1 - Do not grief 
 
@@ -43,10 +39,12 @@ If you cheat we will wipe all your progress and I swear, from 256 to the bedrock
 honeslty i'd like too play too and you can always send me a mail from 
 the game "/mail send PantACRO4life (reason)"
 
-14 - If you found something wrong, Bug, Glitch, Report it please http://discord.gg/kX25QRD
+14 - If you found something wrong, Bug, Glitch, Please Report it  `here <http://discord.gg/kX25QRD>`_
 
-************
+
 Quarry rules
+###########
+
 
 Quarry swap block tolarate any world Max 100x100 area
 

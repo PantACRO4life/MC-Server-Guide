@@ -11,35 +11,23 @@ PantACRO4life's Server Guide
 
     intro.rst
     Join_us.rst
-
-
-
-Index
-############
+    License.rst
+    Guide.rst
+    Claiming.rst
+    Loader.rst
+    Specs.rst
 
 
 .. _rst_Join_us:
-****************
+.. _rst_Rules:
+.. _rst_Guide:
+.. _rst_License:
+.. _rst_Claiming:
+.. _rst_Loader:
+.. _rst_Specs:
 
 
 
-Discord
-************
-
-
-
-**Join The Comunity :**
-`Discord <http://discord.gg/kX25QRD>`_
-
-Administrator/Owner: 
-              
-       PantACRO4life (FR/EN)
-
-Staff: 
-
-       Paulocze (EN)
-       
-       Seigaiha (FR/EN)
 
 
 ############
@@ -227,31 +215,3 @@ Chunk loader are working like this:
 [Offline Loader] Place [Diamond block] in the world and click on it with [Blaze Rod]&d maximum value of Chunk loaded chunk is 9 or 1 area of 3x3. You can see chunk area with [F9 key]
 
 
-Specification of the Server's PC
-----------------
-________________
-
-
-PantACRO4life's Personnal/Server  PC  SPECS
-
-CPU: Intel i7-7700k Overcloaked KabyLake
- 
-GPU: Gigabyte NVIDIA GeForce GTX 1080Ti
-
-RAM: (2x) Corsair Vangence LED white 16 GB 3000 Mhz CL15 - Total 32 GB
-
-MOTHERBOARD:&7 ASUS STRIX z270e Gaming
- 
-STORAGE: (1x) SSD: 256 GB - (1x) HHD : 1 TB Western Digital - (1x) HHD - 2 TB Seagate 
- 
-PSU: Corsair Hx1000i
-
-COOLING: Coirsair Water COOLING 
-
-FAN: (4x) Corsair 120mm LED white
-
-CASE:&7 InWin GT1 Black
- 
-LED:&7 (2x) RGB LED Magnetic Strip
-
-Price: ~3 800 $ CAD

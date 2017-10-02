@@ -1,5 +1,8 @@
 PantACRO4life's Server Guide
 =============================
+
+INDEX
+=============================
 .. toctree::
    :maxdepth: 2
 
@@ -7,13 +10,6 @@ PantACRO4life's Server Guide
    Server_Rules
    Guide
    Quarry_rules
-   syntax
-   utils
-   reference
-   auto_examples/index
-   tutorials/index
-   auto_mayavi_examples/index
-   changes
 
 Join Us
 =================================
@@ -82,8 +78,3 @@ For quarrying more than 100x100 area go in Quarry World
 
 Guide
 ^^^^^^^^
-.. toctree::
-  :maxdepth: 2
-  
-   LICENSE
-

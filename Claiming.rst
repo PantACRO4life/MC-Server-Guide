@@ -1,5 +1,5 @@
 ************
-Claiming With grief prevention plus
+Claiming With Grief Prevention Plus
 ************
 
 **Claim Tools**

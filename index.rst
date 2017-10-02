@@ -10,19 +10,17 @@ PantACRO4life's Server Guide
     :hidden:
 
     intro.rst
-    chapter1.rst
-    chapter2.rst
+    Join_us.rst
 
 
 
-Chapter 1
+Index
 ############
 
-.. _rst_chapter1:
 
+.. _rst_Join_us:
+****************
 
-Join Us
-############
 
 
 Discord

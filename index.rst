@@ -35,7 +35,7 @@ If not your character will go in jail for a period determined by
 PantACRO4life or the ►Staff◄  that will be  minimum of 48h maximum 14days
 
 If that Append again you will be banish
-If you cheat we will wipe all your progress I promise!
+If you cheat we will wipe all your progress and I swear, from 256 to the bedrock you will loose, I promise!!!
 
 6 - Be respectful
 
@@ -61,7 +61,9 @@ the game "/mail send PantACRO4life (reason)"
 Quarry rules
 ^^^^^^^^^^^^^^^^
 Quarry swap block tolarate any world Max 100x100 area
+
 Quarry that dig down are only in Quarry World
+
 For quarrying more than 100x100 area go in Quarry World
 
 Guide

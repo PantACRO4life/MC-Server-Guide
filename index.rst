@@ -6,10 +6,8 @@ PantACRO4life's Server Guide
 Guide
 ^^^^^^^^
 .. toctree::
-   :maxdepth: 2
-   Help
-   Guide
-   license
+  :maxdepth: 2
+  license.rst
 
 :ref:`Index`
 :ref:`Help`

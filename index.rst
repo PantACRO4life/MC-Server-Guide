@@ -34,8 +34,7 @@ If you cheat we will wipe all your progress I promise!
 
 11 - Don't ask my help everytime you see me connected. I know i'm the admin but honeslty i'd like too play too and you can always send me a mail from the game "/mail send PantACRO4life (reason)"
 
-12 - If you found something wrong, Bug, Glitch, Report it please 
-absoluteUrl: http://discord.gg/kX25QRD
+12 - If you found something wrong, Bug, Glitch, Report it please http://discord.gg/kX25QRD
 
 
 Quarry rules

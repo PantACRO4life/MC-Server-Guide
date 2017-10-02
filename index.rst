@@ -11,7 +11,7 @@ PantACRO4life's Server Guide
 
     intro.rst
     Join_us.rst
-    License
+    License.rst
     Guide.rst
     Claiming.rst
     Loader.rst
@@ -21,7 +21,7 @@ PantACRO4life's Server Guide
 .. _rst_Join_us:
 .. _rst_Rules:
 .. _rst_Guide:
-.. License::
+.. _rst_License:
 .. _rst_Claiming:
 .. _rst_Loader:
 .. _rst_Specs:

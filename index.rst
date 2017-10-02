@@ -24,7 +24,7 @@ Rules
 ^^^^^^^^^^^^^^^^
 
 :REF:`Server Rules`
-
+________________
 1 - Do not grief 
 
 2 - Don't steal
@@ -65,7 +65,7 @@ the game "/mail send PantACRO4life (reason)"
 14 - If you found something wrong, Bug, Glitch, Report it please http://discord.gg/kX25QRD
 
 Quarry rules
---------------------
+_________________
 Quarry swap block tolarate any world Max 100x100 area
 
 Quarry that dig down are only in Quarry World

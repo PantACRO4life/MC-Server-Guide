@@ -5,7 +5,7 @@ Rules
 ^^^^^^^^^^
 .. toctree::
   :maxdepth: 2
-  
+  RULES.RST
 
 
 Guide
@@ -15,8 +15,3 @@ Guide
   
    LICENSE
 
-
-Index
-==========================
-
-  :ref:'Guide'

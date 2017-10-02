@@ -242,3 +242,4 @@ CASE:&7 InWin GT1 Black
 LED:&7 (2x) RGB LED Magnetic Strip
 
 Price: ~3 800 $ CAD
+

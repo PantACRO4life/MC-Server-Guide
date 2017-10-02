@@ -13,6 +13,8 @@ PantACRO4life's Server Guide
     chapter1.rst
     chapter2.rst
 
+.. _rst_chapter1:
+
 
 Join Us
 ############

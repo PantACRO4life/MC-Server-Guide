@@ -24,7 +24,6 @@ Rules
 ^^^^^^^^^^^^^^^^
 
 :REF:`Server Rules`
---------------------
 
 1 - Do not grief 
 

@@ -1,8 +1,9 @@
+****************************
 PantACRO4life's Server Guide
-================================
+****************************
 
 Join Us
-^^^^^^^^^^^^^^^^
+################
 ________________
 
 
@@ -10,7 +11,8 @@ Discord
 ----------------
 ________________
 
-Discord: http://discord.gg/kX25QRD
+**Join The Comunity**
+`Discord: <http://discord.gg/kX25QRD>`_
 
 Administrator/Owner: 
               
@@ -23,7 +25,7 @@ Staff:
        Seigaiha (FR/EN)
 
 Rules
-^^^^^^^^^^^^^^^^
+################
 ________________
 
 Server Rules

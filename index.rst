@@ -69,64 +69,69 @@ For quarrying more than 100x100 area go in Quarry World
 Guide
 ^^^^^^^^
 
-&6General useful command & claim tutorial:
-&7---------------------------------
-&6Type &c/einfo claim &6Type &c/einfo specs
-&7---------------------------------
-&6Rank Command Info &6- &8Page commands:
-&6Type &c/einfo default
-&6Type &c/einfo memberT1 &6Type &c/einfo memberT2
-&6Type &c/einfo memberT3 &6Type &c/einfo memberT4
-&6Type &c/einfo memberT5 &6Type &c/einfo vip
-#default
-&8[&41&8] &6/sethome [name] - &3To set a home [optional]
-&8[&42&8] &6/delhome [name] - &3To del a home [optional]
-&8[&43&8] &6/home [name] - &3To go home [optional]
-&8[&44&8] &6/kit - &3Kits list
-&8[&45&8] &6/mail - &3Send mail to someone
-&8[&46&8] &6/list - &3List online players
-&8[&47&8] &6/ontime [top] [online] - &3Show time online info [optional]
-&8[&48&8] &6/spawn - &3go to spawn
-&8[&49&8] &6/tpa - &3Request teleport to someone
-&8[&410&8] &6/top - &3Teleport to the top
-&8[&411&8] &6/rtp - &3Random TP List on GUI (click to use)
-&8[&412&8] &6/pvp toggle - &3Toggle your pvp protection
+General useful command & claim tutorial:
+---------------------------------
+Type /einfo claim Type /einfo specs
+---------------------------------
+
+Rank Command Info - Page commands:
+Type /einfo default
+Type /einfo memberT1 Type /einfo memberT2
+Type /einfo memberT3 Type /einfo memberT4
+Type /einfo memberT5 Type /einfo vip
+
+
+
+default rank
+
+/sethome [name] - To set a home [optional]
+/delhome [name] - To del a home [optional]
+/home [name] - To go home [optional]
+/kit - Kits list
+/mail - Send mail to someone
+/list - List online players
+/ontime [top] [online] - Show time online info [optional]
+/spawn - go to spawn
+/tpa - Request teleport to someone
+/top - Teleport to the top
+/rtp - Random TP List on GUI (click to use)
+/pvp toggle - Toggle your pvp protection
 #memberT1
-&8[&41&8] &6/msg - &3Message someone
-&8[&42&8] &6/afk - &3Toggle afk
+/msg - Message someone
+/afk - Toggle afk
 #memberT2
-&8[&41&8] &6/kit questbook - &3Gave you the Questbook
-&8[&42&8] &6/pset WarpName - &3Set private warp
-&8[&43&8] &6/pdel WarpName - &3Del private warp
-&8[&44&8] &6/pwarps - &3List of private warp
-&8[&45&8] &6/pw WarpName - &3Warp to a private warp
-&8[&46&8] &6/help privatewarps - &3List of private warp command
-&8[&47&8] &6/vote list - &3List of vote available
+/kit questbook - Gave you the Questbook
+/pset WarpName - Set private warp
+/pdel WarpName - Del private warp
+/pwarps - List of private warp
+/pw WarpName - Warp to a private warp
+/help privatewarps - List of private warp command
+/vote list - List of vote available
 
 #memberT3
-&8[&41&8] &6/enderchest - &3Personal (cloud) ender storage
+/enderchest - Personal (cloud) ender storage
 
 #memberT4
-&8[&41&8] &6/trash_can - &3Open a trash inventory! &4[DELETE ITEMS]
+/trash_can - Open a trash inventory! &4[DELETE ITEMS]
 
 #memberT5
-&8[&41&8] &6/kit arena - &3Gave you 2 powerfull potion for fighting
-&8[&42&8] &6/playerskull - &3Give you your player head
-&8[&43&8] &6/playerskull [PlayerName] - &3Give you your player head
+/kit arena - Gave you 2 powerfull potion for fighting
+/playerskull - Give you your player head
+/playerskull [PlayerName] - Give you your player head
 
 #vip
-&8[&41&8] &6/setwarp WarpName - &3Set a public warp
-&8[&42&8] &6/warp - &3List of available warp
-&8[&43&8] &6/warp WarpName - &3Warp to a public warp
+/setwarp WarpName - Set a public warp
+/warp - List of available warp
+/warp WarpName - Warp to a public warp
 
 #claim
-&3Claiming with golden shovel
-&6[&cclick me -->&6]&6http://bit.ly/mcgpuser
+Claiming with golden shovel
+http://bit.ly/mcgpuser
 
 #loader
-&6&nChunk loader are working like this:
+Chunk loader are working like this:
 
-[Online Loader] Place a [Iron block] in the world and click on it with [Blaze Rod] maximum value of Chunk loaded chunk is 49 or 1 area of 7x7. You can see chunk area with &c[F9 key]
+[Online Loader] Place a [Iron block] in the world and click on it with [Blaze Rod] maximum value of Chunk loaded chunk is 49 or 1 area of 7x7. You can see chunk area with [F9 key]
 
 [Offline Loader] Place [Diamond block] in the world and click on it with [Blaze Rod]&d maximum value of Chunk loaded chunk is 9 or 1 area of 3x3. You can see chunk area with [F9 key]
 

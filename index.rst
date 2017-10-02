@@ -4,6 +4,7 @@ PantACRO4life's Server Guide
 Join Us
 ^^^^^^^^^^^^^^^^^^^^^^^^
 Discord: http://discord.gg/kX25QRD
+^^^^^^^^^^
 
 Administrator/Owner: 
               
@@ -12,16 +13,22 @@ Administrator/Owner:
 Staff: 
 
        Paulocze (EN)
+       
        Seigaiha (FR/EN)
 
 Server Rules
 ^^^^^^^^^^^^^^^^
 
 1 - Do not grief 
+
 2 - Don't steal
+
 3 - Don't Raid
+
 4 - Do not cheat 
+
 5 - Do not duplicate item 
+
 If you find way to do one of those thing report it now
 
 If not your character will go in jail for a period determined by 
@@ -31,15 +38,24 @@ If that Append again you will be banish
 If you cheat we will wipe all your progress I promise!
 
 6 - Be respectful
+
 7 - Be ethical
+
 8 - Use common sense
+
 9 - Say hello!
+
 10 - Be happy
+
 11 - Play fair
+
 12 - Don't spawm the chat with annoying question like (how we do)
+
 13 - Don't ask my help everytime you see me connected. I know i'm the admin but
+
 honeslty i'd like too play too and you can always send me a mail from 
 the game "/mail send PantACRO4life (reason)"
+
 14 - If you found something wrong, Bug, Glitch, Report it please http://discord.gg/kX25QRD
 
 Quarry rules

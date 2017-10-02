@@ -9,13 +9,13 @@ PantACRO4life's Server Guide
     :glob:
     :hidden:
 
-    intro.rst
     Join_us.rst
-    LICENSE.rst
+    Rules.rst
     Guide.rst
     Claiming.rst
     Loader.rst
     Specs.rst
+    LICENSE.rst
 
 
 .. _rst_Join_us:

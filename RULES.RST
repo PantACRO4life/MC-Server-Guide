@@ -1,8 +1,13 @@
 server rules
+
 --------------------------
+
 1 - Do not grief 
+
 2 - Do not cheat 
+
 3 - Do not duplicate item 
+
 --------------------------
 If you find way to do one of those thing report it now
 

@@ -13,7 +13,7 @@ Guide
 
 Index
 ==========================
-:ref:`Index`
-:ref:`Help`
-:ref:`Guide`
-:ref:`LICENSE`
+
+.. toctree::
+  :maxdepth: 1
+  Guide

@@ -1,8 +1,6 @@
-PantACRO4life's Server Guide: Doctut
-===================================
+PantACRO4life's Server Guide
+=============================
 
-   Print 'hello'
-   >> hello
 
 
 Guide

@@ -1,6 +1,13 @@
 PantACRO4life's Server Guide
 =============================
 
+Join Us
+^^^^^^^^^^^^^^^^^^^^^^^^
+Discord: http://discord.gg/kX25QRD
+
+Administrator/Owner: PantACRO4life (FR/EN)
+Staff: Paulocze (EN)
+       Seigaiha (FR/EN)
 
 Server Rules
 ^^^^^^^^^^^^^^^^

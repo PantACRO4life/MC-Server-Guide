@@ -10,6 +10,9 @@ Guide
   
    LICENSE
 
+
+Index
+==========================
 :ref:`Index`
 :ref:`Help`
 :ref:`Guide`

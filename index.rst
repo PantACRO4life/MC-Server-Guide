@@ -7,9 +7,9 @@ Guide
 ^^^^^^^^
 .. toctree::
    :maxdepth: 2
-      Help
-      Guide
-      license
+   Help
+   Guide
+   license
 
 :ref:`Index`
 :ref:`Help`

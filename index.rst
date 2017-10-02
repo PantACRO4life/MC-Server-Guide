@@ -2,6 +2,12 @@
 PantACRO4life's Server Guide
 ****************************
 
+.. toctree::
+    :maxdepth: 2
+
+    intro.rst
+    chapter1.rst
+    chapter2.rst
 
 ############
 Join Us

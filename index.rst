@@ -9,6 +9,7 @@ Guide
    :maxdepth: 2
       Help
       Guide
+      license
 
 :ref:`Index`
 :ref:`Help`

@@ -4,7 +4,6 @@ PantACRO4life's Server Guide
 
 .. toctree::
     :maxdepth: 2
-    :numbered:
     :titlesonly:
     :glob:
     :hidden:

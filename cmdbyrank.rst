@@ -1,5 +1,9 @@
 ************
+Command by Rank
+************
+
 Default rank
+#########
 
 /sethome [name] - To set a home [optional]
 
@@ -25,8 +29,8 @@ Default rank
 
 /pvp toggle - Toggle your pvp protection
 
-************
 Member-Tier1 Rank
+##############
 
 /msg - Message someone
 
@@ -34,8 +38,7 @@ Member-Tier1 Rank
 
 
 Member-Tier2 Rank
-----------------
-________________
+##############
 
 /kit questbook - Gave you the Questbook
 
@@ -53,22 +56,18 @@ ________________
 
 
 Member-Tier3 Rank
-----------------
-________________
+##############
 
 /enderchest - Personal (cloud) ender storage
 
 
 Member-Tier4 Rank
-----------------
-________________
+##############
 
 /trash_can - Open a trash inventory! &4[DELETE ITEMS]
 
-
 Member-Tier5 Rank
-----------------
-________________
+##############
 
 /kit arena - Gave you 2 powerfull potion for fighting
 
@@ -78,8 +77,7 @@ ________________
 
 
 VIP Rank
-----------------
-________________
+##############
 
 /setwarp WarpName - Set a public warp
 

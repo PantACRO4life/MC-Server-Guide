@@ -1,6 +1,11 @@
 PantACRO4life's Server Guide
 =============================
 
+Rules
+^^^^^^^^^^
+.. toctree::
+  :maxdepth: 2
+  
 
 
 Guide
@@ -14,6 +19,4 @@ Guide
 Index
 ==========================
 
-.. toctree::
-  :maxdepth: 1
-  Guide
+  :ref:'Guide'

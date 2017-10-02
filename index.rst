@@ -1,11 +1,24 @@
 PantACRO4life's Server Guide
 =============================
+.. toctree::
+   :maxdepth: 2
+
+   Join_Us
+   Server_Rules
+   Guide
+   Quarry_rules
+   syntax
+   utils
+   reference
+   auto_examples/index
+   tutorials/index
+   auto_mayavi_examples/index
+   changes
 
 Join Us
 =================================
 
 Discord: http://discord.gg/kX25QRD
-^^^^^^
 
 Administrator/Owner: 
               

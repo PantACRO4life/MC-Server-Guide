@@ -52,20 +52,3 @@ Type /einfo memberT5 Type /einfo vip
 Type /einfo Specs
 
 
-
-
-Claiming System
-----------------
-________________
-
-Claiming with golden shovel
-
-http://bit.ly/mcgpuser
-
-
-Chunk Loader
-----------------
-________________
-
-
-

@@ -4,12 +4,10 @@ PantACRO4life's Server Guide
 Join Us
 ^^^^^^^^^^^^^^^^
 ________________
-________________
 
 
 Discord
 ----------------
-________________
 ________________
 
 Discord: http://discord.gg/kX25QRD
@@ -27,11 +25,9 @@ Staff:
 Rules
 ^^^^^^^^^^^^^^^^
 ________________
-________________
 
 Server Rules
 ----------------
-________________
 ________________
 
 1 - Do not grief 
@@ -76,7 +72,6 @@ the game "/mail send PantACRO4life (reason)"
 Quarry rules
 ----------------
 ________________
-________________
 
 Quarry swap block tolarate any world Max 100x100 area
 
@@ -86,7 +81,6 @@ For quarrying more than 100x100 area go in Quarry World
 
 Guide
 ^^^^^^^^^^^^^^^^
-________________
 ________________
 
 General useful command & claim tutorial:
@@ -109,7 +103,6 @@ Type /einfo Specs
 
 default rank
 ----------------
-________________
 ________________
 
 /sethome [name] - To set a home [optional]
@@ -140,7 +133,6 @@ ________________
 member-Tier1
 ----------------
 ________________
-________________
 
 /msg - Message someone
 
@@ -149,7 +141,6 @@ ________________
 
 member-Tier2
 ----------------
-________________
 ________________
 
 /kit questbook - Gave you the Questbook
@@ -170,7 +161,6 @@ ________________
 member-Tier3
 ----------------
 ________________
-________________
 
 /enderchest - Personal (cloud) ender storage
 
@@ -178,14 +168,12 @@ ________________
 member-Tier4
 ----------------
 ________________
-________________
 
 /trash_can - Open a trash inventory! &4[DELETE ITEMS]
 
 
 member-Tier5
 ----------------
-________________
 ________________
 
 /kit arena - Gave you 2 powerfull potion for fighting
@@ -198,7 +186,6 @@ ________________
 vip
 ----------------
 ________________
-________________
 
 /setwarp WarpName - Set a public warp
 
@@ -210,7 +197,6 @@ ________________
 claim
 ----------------
 ________________
-________________
 
 Claiming with golden shovel
 
@@ -219,7 +205,6 @@ http://bit.ly/mcgpuser
 
 loader
 ----------------
-________________
 ________________
 
 Chunk loader are working like this:
@@ -231,7 +216,6 @@ Chunk loader are working like this:
 
 specs
 ----------------
-________________
 ________________
 
 

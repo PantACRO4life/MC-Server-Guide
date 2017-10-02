@@ -21,7 +21,7 @@ PantACRO4life's Server Guide
 .. _rst_Join_us:
 .. _rst_Rules:
 .. _rst_Guide:
-.. _rst_License:
+.. _rst_license:
 .. _rst_Claiming:
 .. _rst_Loader:
 .. _rst_Specs:

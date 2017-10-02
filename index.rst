@@ -2,9 +2,10 @@ PantACRO4life's Server Guide
 =============================
 
 Join Us
-^^^^^^^^^^^^^^^^^^^^^^^^
+=================================
+
 Discord: http://discord.gg/kX25QRD
-^^^^^^^^^^
+^^^^^^
 
 Administrator/Owner: 
               

@@ -83,7 +83,7 @@ Guide
 ^^^^^^^^^^^^^^^^
 ________________
 
-General useful command & claim tutorial:
+General useful command:
 
 
 Type /einfo claim Type /einfo specs
@@ -101,7 +101,7 @@ Type /einfo memberT5 Type /einfo vip
 Type /einfo Specs
 
 
-default rank
+Default rank
 ----------------
 ________________
 
@@ -130,7 +130,7 @@ ________________
 /pvp toggle - Toggle your pvp protection
 
 
-member-Tier1
+Member-Tier1 Rank
 ----------------
 ________________
 
@@ -139,7 +139,7 @@ ________________
 /afk - Toggle afk
 
 
-member-Tier2
+Member-Tier2 Rank
 ----------------
 ________________
 
@@ -158,21 +158,21 @@ ________________
 /vote list - List of vote available
 
 
-member-Tier3
+Member-Tier3 Rank
 ----------------
 ________________
 
 /enderchest - Personal (cloud) ender storage
 
 
-member-Tier4
+Member-Tier4 Rank
 ----------------
 ________________
 
 /trash_can - Open a trash inventory! &4[DELETE ITEMS]
 
 
-member-Tier5
+Member-Tier5 Rank
 ----------------
 ________________
 
@@ -183,7 +183,7 @@ ________________
 /playerskull [PlayerName] - Give you your player head
 
 
-vip
+VIP Rank
 ----------------
 ________________
 
@@ -194,7 +194,7 @@ ________________
 /warp WarpName - Warp to a public warp
 
 
-claim
+Claiming System
 ----------------
 ________________
 
@@ -203,7 +203,7 @@ Claiming with golden shovel
 http://bit.ly/mcgpuser
 
 
-loader
+Chunk Loader
 ----------------
 ________________
 
@@ -214,7 +214,7 @@ Chunk loader are working like this:
 [Offline Loader] Place [Diamond block] in the world and click on it with [Blaze Rod]&d maximum value of Chunk loaded chunk is 9 or 1 area of 3x3. You can see chunk area with [F9 key]
 
 
-specs
+Specification of the Server's PC
 ----------------
 ________________
 

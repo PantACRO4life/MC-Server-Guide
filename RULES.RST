@@ -1,12 +1,10 @@
 server rules
-==========================
-________________________________
+
 1 - Do not grief 
 
 2 - Do not cheat 
 
 3 - Do not duplicate item 
-________________________________
 If you find way to do one of those thing report it now
 
 If not your character will go in jail for a period determined by 

@@ -3,13 +3,13 @@ Join Us
 *****************
 
 **Join The Comunity :**
-`Discord <http://discord.gg/kX25QRD>`_
+`Link to Discord <http://discord.gg/kX25QRD>`_
 
-Administrator/Owner: 
+**Administrator/Owner:** 
               
        PantACRO4life (FR/EN)
 
-Staff: 
+**Staff:**
 
        Paulocze (EN)
        

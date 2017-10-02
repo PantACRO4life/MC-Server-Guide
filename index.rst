@@ -3,13 +3,10 @@ PantACRO4life's Server Guide
 
 INDEX
 =============================
-.. toctree::
-   :maxdepth: 2
 
-   Join_Us
-   Server_Rules
-   Guide
-   Quarry_rules
+
+
+http://pantacro4life-demo.readthedocs.io/en/latest/#quarry-rules
 
 Join Us
 ^^^^^^^^^^^^^^

@@ -4,6 +4,10 @@ PantACRO4life's Server Guide
 Join Us
 ^^^^^^^^^^^^^^
 
+
+Discord
+--------------------
+
 Discord: http://discord.gg/kX25QRD
 
 Administrator/Owner: 
@@ -16,8 +20,11 @@ Staff:
        
        Seigaiha (FR/EN)
 
-Server Rules
+Rules
 ^^^^^^^^^^^^^^^^
+
+Server Rules
+--------------------
 
 1 - Do not grief 
 
@@ -59,7 +66,7 @@ the game "/mail send PantACRO4life (reason)"
 14 - If you found something wrong, Bug, Glitch, Report it please http://discord.gg/kX25QRD
 
 Quarry rules
-^^^^^^^^^^^^^^^^
+--------------------
 Quarry swap block tolarate any world Max 100x100 area
 
 Quarry that dig down are only in Quarry World
@@ -67,13 +74,12 @@ Quarry that dig down are only in Quarry World
 For quarrying more than 100x100 area go in Quarry World
 
 Guide
-^^^^^^^^
+^^^^^^^^^^^^^^^^
 
 General useful command & claim tutorial:
 
----------------------------------
+
 Type /einfo claim Type /einfo specs
----------------------------------
 
 Rank Command Info - Page commands:
 
@@ -89,7 +95,7 @@ Type /einfo Specs
 
 
 default rank
-^^^^^^^^^^^^^^^^^^^^^^^^^^
+--------------------
 /sethome [name] - To set a home [optional]
 
 /delhome [name] - To del a home [optional]
@@ -116,14 +122,14 @@ default rank
 
 
 member-Tier1
-^^^^^^^^^^^^^^^^^^^^^^
+--------------------
 /msg - Message someone
 
 /afk - Toggle afk
 
 
 member-Tier2
-^^^^^^^^^^^^^^^^^^^^^^
+--------------------
 /kit questbook - Gave you the Questbook
 
 /pset WarpName - Set private warp
@@ -140,17 +146,17 @@ member-Tier2
 
 
 member-Tier3
-^^^^^^^^^^^^^^^^^^^^^^
+--------------------
 /enderchest - Personal (cloud) ender storage
 
 
 member-Tier4
-^^^^^^^^^^^^^^^^^^^^^^^^^^
+--------------------
 /trash_can - Open a trash inventory! &4[DELETE ITEMS]
 
 
 member-Tier5
-^^^^^^^^^^^^^^^^^^^^
+--------------------
 /kit arena - Gave you 2 powerfull potion for fighting
 
 /playerskull - Give you your player head
@@ -159,7 +165,7 @@ member-Tier5
 
 
 vip
-^^^^^^^^^^^^^^^^^^^^
+--------------------
 /setwarp WarpName - Set a public warp
 
 /warp - List of available warp
@@ -168,14 +174,14 @@ vip
 
 
 claim
-^^^^^^^^^^^^^^^^^^
+--------------------
 Claiming with golden shovel
 
 http://bit.ly/mcgpuser
 
 
 loader
-^^^^^^^^^^^^^^^^^^
+--------------------
 Chunk loader are working like this:
 
 [Online Loader] Place a [Iron block] in the world and click on it with [Blaze Rod] maximum value of Chunk loaded chunk is 49 or 1 area of 7x7. You can see chunk area with [F9 key]
@@ -184,7 +190,7 @@ Chunk loader are working like this:
 
 
 specs
-^^^^^^^^^^^^^^^^^^^^
+--------------------
 
 PantACRO4life's Personnal/Server  PC  SPECS
 

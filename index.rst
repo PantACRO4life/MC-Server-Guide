@@ -3,13 +3,12 @@ PantACRO4life's Server Guide
 ****************************
 
 
-************
+############
 Join Us
 
 
+************
 Discord
-----------------
-________________
 
 **Join The Comunity**
 `Discord: <http://discord.gg/kX25QRD>`_
@@ -25,12 +24,12 @@ Staff:
        Seigaiha (FR/EN)
 
 
-************
+############
 Rules
 
+
+************
 Server Rules
-----------------
-________________
 
 1 - Do not grief 
 
@@ -71,9 +70,8 @@ the game "/mail send PantACRO4life (reason)"
 
 14 - If you found something wrong, Bug, Glitch, Report it please http://discord.gg/kX25QRD
 
+************
 Quarry rules
-----------------
-________________
 
 Quarry swap block tolarate any world Max 100x100 area
 
@@ -81,9 +79,8 @@ Quarry that dig down are only in Quarry World
 
 For quarrying more than 100x100 area go in Quarry World
 
+############
 Guide
-^^^^^^^^^^^^^^^^
-________________
 
 General useful command:
 
@@ -102,10 +99,8 @@ Type /einfo memberT5 Type /einfo vip
 
 Type /einfo Specs
 
-
+************
 Default rank
-----------------
-________________
 
 /sethome [name] - To set a home [optional]
 
@@ -131,10 +126,8 @@ ________________
 
 /pvp toggle - Toggle your pvp protection
 
-
+************
 Member-Tier1 Rank
-----------------
-________________
 
 /msg - Message someone
 

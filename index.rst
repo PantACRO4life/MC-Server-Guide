@@ -7,7 +7,7 @@ Guide
 ^^^^^^^^
 .. toctree::
   :maxdepth: 2
-  license.rst
+  LICENSE
 
 :ref:`Index`
 :ref:`Help`

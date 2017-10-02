@@ -12,7 +12,7 @@ INDEX
    Quarry_rules
 
 Join Us
-=================================
+^^^^^^^^^^^^^^
 
 Discord: http://discord.gg/kX25QRD
 

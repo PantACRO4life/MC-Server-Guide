@@ -21,6 +21,7 @@ PantACRO4life's Server Guide
 
 .. toctree::
     :maxdepth: 2
+    :titlesonly:
     
     Join_us.rst
     Rules.rst

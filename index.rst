@@ -18,10 +18,16 @@ PantACRO4life's Server Guide
     Specs.rst
     LICENSE.rst
 
-.. contents:: Contents
-    :depth: 2
 
-
-Type: Exact Redirect
-From URL: /dev/install.html
-To URL:   /en/latest/installing-your-site.html
+.. toctree::
+    :maxdepth: 2
+    
+    Join_us.rst
+    Rules.rst
+    Ranking.rst
+    Cmdbyrank.rst
+    Claiming.rst
+    Loader.rst
+    Ingameguide.rst
+    Specs.rst
+    LICENSE.rst

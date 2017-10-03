@@ -2,6 +2,9 @@
 Server Rules
 ***************
 
+General Rules
+#################
+
 _______________
 
 1 - Do not grief 
@@ -55,8 +58,8 @@ _______________
 
 _______________
 
-Quarry rules
-###########
+Quarry Rules
+############
 
 _______________
 
@@ -69,3 +72,31 @@ For quarrying more than 100x100 area go in Quarry World
 _______________
 
 _______________
+
+Applied Energistics ME-System Rules
+###################################
+
+.. image:: ME/clean-me.png
+    :width: 375px
+    :align: center
+    :height: 575px
+    :alt: alternate text
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    

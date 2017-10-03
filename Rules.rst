@@ -9,23 +9,23 @@ _______________
 
 1 - Do not grief 
 
-2 - Don't steal
+2 - Do not steal
 
-3 - Don't Raid
+3 - Do not Raid
 
 4 - Do not cheat 
 
-5 - Do not duplicate item 
+5 - Do not duplicate items
 
 _______________
 
-If you find as way to do one of these things report it now
+If you find a way to do one of the things listed above report it as soon as possible.
 
 If not your character will go in jail for a period determined by 
-PantACRO4life or the ►Staff◄  which will be  minimum of 48h maximum 14days
+PantACRO4life or the ►Staff◄  which will be  minimum of 48h maximum 14days.
 
-If that happens again you will be banished
-If you cheat we will wipe all your progress and I swear, from 256 to the bedrock you will loose, I promise!!!
+If that happens again you will be banished.
+If you cheat we will wipe all your progress and I swear, from build height to the bedrock you will loose everything, I promise!!!
 
 _______________
 
@@ -41,9 +41,9 @@ _______________
 
 11 - Play fair
 
-12 - Don't spawm the chat with annoying question like (how do we) 
+12 - Don't spam the chat with annoying question like (how are we) 
 
-13 - Don't ask my help everytime you see me connected. I know i'm the admin but
+13 - Don't ask my help everytime you see me connected. I know i'm the admin but there are the ►Staff◄
 
 _______________
 
@@ -63,11 +63,11 @@ Quarry Rules
 
 _______________
 
-Quarry swap block tolarate any world Max 100x100 area
+Quarry that swaps blocks is tolarated in any world at Max 100x100 area
 
-Quarry that dig down are only in Quarry World
+Quarry that dig holes are only in Quarry World
 
-For quarrying more than 100x100 area go in Quarry World
+For quarrying more than 100x100 area go in the Quarry World
 
 _______________
 
@@ -76,7 +76,7 @@ _______________
 Applied Energistics ME-System Rules
 ###################################
 
-Applied Energistics is a complicate mod with many possibility. Storing your items into an ME-System it kind of fun but the server gets laggy if the **Rules aren't respected**...
+Applied Energistics is a complicate mod with many possibility. Storing your items into an ME-System is kind of fun but the server gets laggy if the **Rules aren't respected**...
 
 **Never use your ME-System to store unstackable items like this**
 

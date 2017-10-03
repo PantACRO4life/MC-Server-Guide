@@ -23,6 +23,10 @@ _______________
        
        Seigaiha (FR/EN)
 
+**Moderator:**
+
+       Jaxoutofthebox (EN)
+
 _______________
 
 _______________

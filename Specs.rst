@@ -1,5 +1,5 @@
 **********************************
-**Specification of the Server's PC**
+Specification of the Server's PC
 **********************************
 
 _______________

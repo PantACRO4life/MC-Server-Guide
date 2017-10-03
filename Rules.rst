@@ -24,8 +24,8 @@ If you find a way to do one of the things listed above report it as soon as poss
 If not your character will go in jail for a period determined by 
 PantACRO4life or the ►Staff◄  which will be  minimum of 48h maximum 14days.
 
-If that happens again you will be punished.
 If you cheat we will wipe all your progress and I swear, from build height to the bedrock you will loose everything, I promise!!!
+If that happens again you will be banned.
 
 _______________
 

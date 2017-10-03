@@ -28,7 +28,7 @@ _______________
 
 _______________
 
-**You can trust people with those command higher to lower trust level**
+**You can trust people with those commands highest to lowest trust level**
 
 While in claimed area do /trustlist
 

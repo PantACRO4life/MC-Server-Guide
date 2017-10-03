@@ -3,7 +3,7 @@ Command by Rank
 ************
 
 Default rank
-#########
+############
 
 /sethome [name] - To set a home [optional]
 
@@ -29,16 +29,19 @@ Default rank
 
 /pvp toggle - Toggle your pvp protection
 
+_______________
+
 Member-Tier1 Rank
-##############
+############
 
 /msg - Message someone
 
 /afk - Toggle afk
 
+_______________
 
 Member-Tier2 Rank
-##############
+############
 
 /kit questbook - Gave you the Questbook
 
@@ -54,20 +57,24 @@ Member-Tier2 Rank
 
 /vote list - List of vote available
 
+_______________
 
 Member-Tier3 Rank
-##############
+############
 
 /enderchest - Personal (cloud) ender storage
 
+_______________
 
 Member-Tier4 Rank
-##############
+############
 
 /trash_can - Open a trash inventory! &4[DELETE ITEMS]
 
+_______________
+
 Member-Tier5 Rank
-##############
+############
 
 /kit arena - Gave you 2 powerfull potion for fighting
 
@@ -75,12 +82,15 @@ Member-Tier5 Rank
 
 /playerskull [PlayerName] - Give you your player head
 
+_______________
 
 VIP Rank
-##############
+############
 
 /setwarp WarpName - Set a public warp
 
 /warp - List of available warp
 
 /warp WarpName - Warp to a public warp
+
+_______________

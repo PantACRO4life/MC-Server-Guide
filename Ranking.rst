@@ -28,7 +28,7 @@ Other rank you can see on the server
 
 **VIP** :
 
-              This is the last free rank that can be obtain on-time playing on the server, You can also Buy this rank to Skip 10 days of waiting.
+              This is the last free rank that can be obtain by playing on the server, You can also Buy this rank to Skip 10 days of waiting.
 
 - **Helper** :
               

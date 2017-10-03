@@ -3,6 +3,7 @@ PantACRO4life's Server Guide
 ****************************
 
 **Contents**
+###############
 
 .. toctree::
     :maxdepth: 2

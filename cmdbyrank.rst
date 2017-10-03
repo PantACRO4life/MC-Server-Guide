@@ -4,37 +4,6 @@ Command by Rank
 
 _______________
 
-**Guide For In-Game Information**
-############
-
-Type /einfo claim 
-
-Type /einfo loader
-
-Type /einfo specs
-
-**Rank Command Info - Page commands:**
-
-Type /einfo default
-
-Type /einfo memberT1 
-
-Type /einfo memberT2
-
-Type /einfo memberT3 
-
-Type /einfo memberT4
-
-Type /einfo memberT5 
-
-Type /einfo vip
-
-Type /einfo Specs
-
-_______________
-
-_______________
-
 Default rank
 ############
 

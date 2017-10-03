@@ -20,5 +20,8 @@ PantACRO4life's Server Guide
 
 .. contents:: Contents
     :depth: 2
-    :titlesonly:
-    :glob:
+
+
+Type: Exact Redirect
+From URL: /dev/install.html
+To URL:   /en/latest/installing-your-site.html

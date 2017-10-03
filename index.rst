@@ -5,9 +5,7 @@ PantACRO4life's Server Guide
 .. toctree::
     :maxdepth: 2
     :glob:
-   
-**TEST**   
-   
+     
     Join_us.rst
     Rules.rst
     Ranking.rst
@@ -17,3 +15,5 @@ PantACRO4life's Server Guide
     Ingameguide.rst
     Specs.rst
     LICENSE.rst
+
+**TEST**   

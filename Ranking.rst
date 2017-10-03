@@ -5,9 +5,9 @@ Ranking System
 Ranks
 #########
 
-**Rank are working like this**
+**Ranks work like this**
 
-At your first you got a **default** rank,
+At the beginning you get a **default** rank,
 
 After playing 1 hour, you Rank up to **Member-Tier1**
 
@@ -28,11 +28,11 @@ Other rank you can see on the server
 
 **VIP** :
 
-              Being the last free rank that can be obtain on-time playing on the server, You can also Buy this rank to Skip 10 days of waiting.
+              This is the last free rank that can be obtain on-time playing on the server, You can also Buy this rank to Skip 10 days of waiting.
 
 - **Helper** :
               
-              They are here to help people, they have alot of knowlegde.
+              They are here to help people. They have alot of knowlegde.
 
 - **Donator** :
 
@@ -44,7 +44,7 @@ Other rank you can see on the server
 
 - **Moderator** :
 
-              They might report anything wrong to the admin or the staff.              
+              They report anything wrong to the admin or the staff.              
 
 - **Staff** : 
 
@@ -52,7 +52,7 @@ Other rank you can see on the server
 
 - **Administrator** : 
               
-              Currently there is only one Admin being me, PantACRO4life.
+              Currently there is only one Admin, me, PantACRO4life.
               
               
 ___________________________________

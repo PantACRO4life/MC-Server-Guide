@@ -6,7 +6,6 @@ PantACRO4life's Server Guide
     :maxdepth: 2
     :titlesonly:
     :glob:
-    :hidden:
 
     Join_us.rst
     Rules.rst

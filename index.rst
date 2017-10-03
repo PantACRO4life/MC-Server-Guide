@@ -29,20 +29,37 @@ PantACRO4life's Server Guide
 .. _rst_ingameguide:
 
 :ref:`rst_Join_us`
+
 :ref:`rst_Rules`
+
 :ref:`rst_Ranking`
+
 :ref:`rst_LICENSE`
+
 :ref:`rst_Claiming`
+
 :ref:`rst_Loader`
+
 :ref:`rst_Specs`
+
 :ref:`rst_cmdbyrank`
+
 :ref:`rst_ingameguide`
 
+.. Join_us::
 
+.. Rules::
 
+.. Ranking::
 
+.. cmdbyrank::
 
+.. Claiming::
 
+.. Loader::
 
+.. ingameguide::
 
+.. Specs::
 
+.. LICENSE::

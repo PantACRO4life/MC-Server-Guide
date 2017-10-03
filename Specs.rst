@@ -2,6 +2,9 @@
 **Specification of the Server's PC**
 **********************************
 
+_______________
+
+_______________
 
 **PantACRO4life's Personnal/Server  PC  SPECS**
 
@@ -26,3 +29,7 @@
 **LED:** **(2x)** RGB LED Magnetic Strip
 
 **Price:** ~3 800 $ CAD
+
+_______________
+
+_______________

@@ -1,5 +1,5 @@
 ************
-Command by Rank
+Commands by Rank
 ************
 
 _______________
@@ -17,9 +17,9 @@ Default rank
 
 /mail - Send mail to someone
 
-/list - List online players
+/list - List of online players
 
-/ontime [top] [online] - Show time online info [optional]
+/ontime [top] [online] - Show time played info [optional]
 
 /spawn - go to spawn
 
@@ -36,8 +36,8 @@ _______________
 Member-Tier1 Rank
 ############
 
-/msg - Message someone
-
+/msg or /w - Message someone
+/r - reply
 /afk - Toggle afk
 
 _______________
@@ -49,7 +49,7 @@ Member-Tier2 Rank
 
 /pset WarpName - Set private warp
 
-/pdel WarpName - Del private warp
+/pdel WarpName - Delete private warp
 
 /pwarps - List of private warp
 
@@ -71,18 +71,18 @@ _______________
 Member-Tier4 Rank
 ############
 
-/trash_can - Open a trash inventory! &4[DELETE ITEMS]
+/trash_can - Open a trash inventory! &4[DELETES ITEMS]
 
 _______________
 
 Member-Tier5 Rank
 ############
 
-/kit arena - Gave you 2 powerfull potion for fighting
+/kit arena - You get 2 powerfull potions for fighting
 
-/playerskull - Give you your player head
+/playerskull - Get your player head
 
-/playerskull [PlayerName] - Give you your player head
+/playerskull [PlayerName] - Get player head of the named player
 
 _______________
 

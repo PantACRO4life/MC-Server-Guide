@@ -86,7 +86,7 @@ Applied Energistics is a complicate mod with many possibility. Storing your item
     :height: 575px
     :alt: alternate text
     
-Admin of staff will check into your system and warn your if that append.
+Admin or staff will check in your system and warn your if that appears.
 
 _________________________
     

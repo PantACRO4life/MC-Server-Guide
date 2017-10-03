@@ -7,6 +7,9 @@ PantACRO4life's Server Guide
     :titlesonly:
     :glob:
 
+.. contents:: Contents
+    :depth: 2
+    
     Join_us.rst
     Rules.rst
     Ranking.rst
@@ -29,6 +32,3 @@ __________________________
 .. _rst_Specs:
 .. _rst_Cmdbyrank:
 .. _rst_Ingameguide:
-
-.. contents:: Contents
-    :depth: 2

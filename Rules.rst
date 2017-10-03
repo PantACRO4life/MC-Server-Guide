@@ -76,27 +76,28 @@ _______________
 Applied Energistics ME-System Rules
 ###################################
 
+Applied Energistics is a complicate mod you many possibility, storing your items into an ME-System it's kind of fun yeah but the server get laggy if **1 Rules isn't respected**...
+
+**Never use your ME-System to store unstackable items like this**
+
+.. image:: ME/mess-me3.png
+    :width: 375px
+    :align: center
+    :height: 575px
+    :alt: alternate text
+    
+Admin of staff will check into your system and warn your if that append.
+
+_________________________
+    
+**Your ME-System should look like this and with only Stackable Items!**    
+    
 .. image:: ME/clean-me.png
     :width: 375px
     :align: center
     :height: 575px
     :alt: alternate text
     
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
+_________________________
+
+_________________________

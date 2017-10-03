@@ -11,10 +11,10 @@ PantACRO4life's Server Guide
     Join_us.rst
     Rules.rst
     Ranking.rst
-    cmdbyrank.rst
+    Cmdbyrank.rst
     Claiming.rst
     Loader.rst
-    ingameguide.rst
+    Ingameguide.rst
     Specs.rst
     LICENSE.rst
 
@@ -25,41 +25,19 @@ PantACRO4life's Server Guide
 .. _rst_Claiming:
 .. _rst_Loader:
 .. _rst_Specs:
-.. _rst_cmdbyrank:
-.. _rst_ingameguide:
+.. _rst_Cmdbyrank:
+.. _rst_Ingameguide:
 
-:ref:`rst_Join_us`
-
-:ref:`rst_Rules`
-
-:ref:`rst_Ranking`
-
-:ref:`rst_LICENSE`
-
-:ref:`rst_Claiming`
-
-:ref:`rst_Loader`
-
-:ref:`rst_Specs`
-
-:ref:`rst_cmdbyrank`
-
-:ref:`rst_ingameguide`
+.. glossary::
+     apical
+        at the top of the plant.
 
 .. Join_us::
-
 .. Rules::
-
 .. Ranking::
-
 .. cmdbyrank::
-
 .. Claiming::
-
 .. Loader::
-
 .. ingameguide::
-
 .. Specs::
-
 .. LICENSE::

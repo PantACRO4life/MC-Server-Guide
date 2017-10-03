@@ -2,6 +2,9 @@
 Ranking System
 ***********************
 
+Ranks
+#########
+
 **Rank are working like this**
 
 At your first you got a **default** rank,

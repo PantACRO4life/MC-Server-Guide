@@ -2,6 +2,8 @@
 PantACRO4life's Server Guide
 ****************************
 
+**Contents**
+
 .. toctree::
     :maxdepth: 2
     :glob:
@@ -16,4 +18,4 @@ PantACRO4life's Server Guide
     Specs.rst
     LICENSE.rst
 
-**TEST**   
+

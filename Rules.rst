@@ -19,12 +19,12 @@ _______________
 
 _______________
 
-If you find way to do one of those thing report it now
+If you find as way to do one of these things report it now
 
 If not your character will go in jail for a period determined by 
-PantACRO4life or the ►Staff◄  that will be  minimum of 48h maximum 14days
+PantACRO4life or the ►Staff◄  which will be  minimum of 48h maximum 14days
 
-If that Append again you will be banish
+If that happens again you will be banished
 If you cheat we will wipe all your progress and I swear, from 256 to the bedrock you will loose, I promise!!!
 
 _______________
@@ -41,7 +41,7 @@ _______________
 
 11 - Play fair
 
-12 - Don't spawm the chat with annoying question like (how we do)
+12 - Don't spawm the chat with annoying question like (how do we) 
 
 13 - Don't ask my help everytime you see me connected. I know i'm the admin but
 
@@ -76,7 +76,7 @@ _______________
 Applied Energistics ME-System Rules
 ###################################
 
-Applied Energistics is a complicate mod you many possibility, storing your items into an ME-System it's kind of fun yeah but the server get laggy if **1 Rules isn't respected**...
+Applied Energistics is a complicate mod with many possibility. Storing your items into an ME-System it kind of fun but the server gets laggy if the **Rules aren't respected**...
 
 **Never use your ME-System to store unstackable items like this**
 

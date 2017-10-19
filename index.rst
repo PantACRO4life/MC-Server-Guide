@@ -13,6 +13,7 @@ PantACRO4life's Server Guide
     Rules.rst
     Ranking.rst
     Cmdbyrank.rst
+    Shop.rst
     Claiming.rst
     Loader.rst
     Ingameguide.rst

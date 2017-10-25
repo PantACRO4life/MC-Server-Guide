@@ -17,6 +17,7 @@ PantACRO4life's Server Guide
     Claiming.rst
     Loader.rst
     Ingameguide.rst
+    BannedItem.rst
     Specs.rst
     LICENSE.rst
 

@@ -6,13 +6,27 @@ _______________
 
 **Banned Items**
 
-Golden Shovel to claim
+Fancy Workbench (all)
 
-Wooden Stick to analyse the area
+Farming station
+Agricraft Farming station
+All agricraft modules
 
-Minimum area is 10 x 10 
+Imbued Fire (all)
 
-You gain 100 Claims Blocks per hour 
+Crane Backpack
+Crane Control
+Crane Engine
+
+Sacred rubber tree
+
+Everfull Urn
+
+/dev/null
+
+Cloud in a bottle
+
+
 _______________
 
 _______________

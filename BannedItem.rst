@@ -8,10 +8,6 @@ _______________
 
 Fancy Workbench (all)
 
-Farming station
-Agricraft Farming station
-All agricraft modules
-
 Imbued Fire (all)
 
 Crane Backpack

@@ -16,7 +16,7 @@ _______________
 
 **MOTHERBOARD:** ASUS STRIX z270e Gaming
  
-**STORAGE:** **(1x)** Samsung 960 EVO M.2 SSD 256 GB - **(1x)** SSD: 256 GB - **(1x)** HHD : 1 TB Western Digital - **(1x)** HHD - 2 TB Seagate 
+**STORAGE:** **(1x)** Samsung 960 EVO M.2 SSD 256 GB - **(1x)** SSD: 256 GB - **(1x)** HDD : 1 TB Western Digital - **(1x)** HDD - 2 TB Seagate 
  
 **PSU:** Corsair Hx1000i
 
